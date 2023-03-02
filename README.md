@@ -22,3 +22,7 @@
 ###### MUX
 ![Screenshot (241)](https://user-images.githubusercontent.com/108394058/222357437-be22e928-b6bc-42fe-82da-3bf72ba95a38.png)
 > uses S (bit that shows overflow or underflow) to avoid sum or sub becuase of overflow or underflow
+
+###### COMP1 (7-BIT COMPARATOR)
+![Screenshot (242)](https://user-images.githubusercontent.com/108394058/222359982-ceb27ecf-be00-49ba-ae5b-f566f1b04d13.png)
+> comapre A(balance) and B(new input) and checks if B > A
