@@ -9,5 +9,6 @@
 ## B3
 
 ## CP 1
-
+![Screenshot (232)](https://user-images.githubusercontent.com/108394058/222350771-caa5af03-8895-4b38-a3fb-eadb5f5cac98.png)
+> CP 1 contains four d-ff to save 4 bits of password
 ## A/S
