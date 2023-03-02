@@ -1,5 +1,5 @@
 # Digital-wallet-circuit
-> In one topic, you are going to design a simple digital wallet that is activated by getting a password and you can deposit money into it.
+ In one topic, you are going to design a simple digital wallet that is activated by getting a password and you can deposit money into it.
 This circuit will be a sequential circuit.
 For the security of the wallet, a 4-bit password is intended for it. By activating the pass_ch signal, you can enter the entry value. The amount of money saved will be 7 bits (from 0 to 127). 
 This value is 0 by default and will be displayed at any moment through the out output.
