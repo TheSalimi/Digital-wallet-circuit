@@ -1,7 +1,7 @@
 # Digital-wallet-circuit
 
 ## scheme
-![Screenshot (231)](https://user-images.githubusercontent.com/108394058/221377263-ade719cf-1ea6-4693-96be-3314c2663081.png)
+![Screenshot (236)](https://user-images.githubusercontent.com/108394058/222352602-60d8de45-d5f6-41b6-8ee4-b7e52b375be1.png)
 ## U1
 > U1 is a comparator that compare the password of wallet with password that user gives to input
 ## U2 A
