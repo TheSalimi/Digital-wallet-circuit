@@ -5,7 +5,7 @@
 ## U1
 > U1 is a comparator that compare the password of wallet with password that user gives to input
 ## U2 A
-
+> is a d-ff that its output (EN_out) shows that the user is in wallet account or not
 ## B3
 
 ## CP 1
