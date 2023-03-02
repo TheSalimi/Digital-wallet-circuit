@@ -1,4 +1,20 @@
 # Digital-wallet-circuit
+> In one topic, you are going to design a simple digital wallet that is activated by getting a password and you can deposit money into it.
+This circuit will be a sequential circuit.
+For the security of the wallet, a 4-bit password is intended for it. By activating the pass_ch signal, you can enter the entry value. The amount of money saved will be 7 bits (from 0 to 127). 
+This value is 0 by default and will be displayed at any moment through the out output.
+
+How to work with the wallet: 
+if the 4-bit password is entered correctly, the out_En output is set to one and one of the additional operations can be performed.
+If the password is entered incorrectly, the out_En output is zero and no operation can be performed
+The operation of adding money is to enter the desired amount of money in the 7-bit input
+and set the sub/add signal to 0.
+In this case, if the password is entered correctly, by pressing the button
+apply, the input value is added to the previous value and stored in the wallet.
+
+The operation of subtracting money is such that the amount
+should be put on the desired money in the 7-bit input and set the sub/add signal to 1. In this case, if the password is correct
+, by pressing the apply key, the input value is reduced from the previous value and stored in the wallet. by makin Reset signal equal to one the amount of money in the wallet should be zero
 
 ## scheme
 ![Screenshot (236)](https://user-images.githubusercontent.com/108394058/222352602-60d8de45-d5f6-41b6-8ee4-b7e52b375be1.png)
@@ -8,7 +24,7 @@
 > is a d-ff that its output (EN_out) shows that the user is in wallet account or not
 ## B3 (BALANCE)
 ![Screenshot (237)](https://user-images.githubusercontent.com/108394058/222353114-b71815d9-7b21-4f7f-a7cc-07b9dd294cc4.png)
-> B3 is balance and can save 7 bits (0-255)
+> B3 is balance and can save 7 bits (0-127)
 ## CP 1 (CHANGE PASS)
 ![Screenshot (232)](https://user-images.githubusercontent.com/108394058/222350771-caa5af03-8895-4b38-a3fb-eadb5f5cac98.png)
 > CP 1 contains four d-ff to save 4 bits of password
