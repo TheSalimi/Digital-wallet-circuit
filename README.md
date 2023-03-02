@@ -12,4 +12,10 @@
 ## CP 1 (CHANGE PASS)
 ![Screenshot (232)](https://user-images.githubusercontent.com/108394058/222350771-caa5af03-8895-4b38-a3fb-eadb5f5cac98.png)
 > CP 1 contains four d-ff to save 4 bits of password
-## A/S
+## A/S (7 bit ADDER/SUBBER)
+![Screenshot (238)](https://user-images.githubusercontent.com/108394058/222355157-8babd91c-6ac4-451d-9251-9becbc5ea692.png)
+> it is used for adding or getting money fromm balance implemented by full adders ,mux and comparator
+###### FULLADDER
+![Screenshot (239)](https://user-images.githubusercontent.com/108394058/222356019-95c54df0-c44c-4263-972b-4a1e68e17c88.png)
+> used to add bits (x and y are main bits and C_in is carry that has formed from previous plural)
+![Screenshot (239)](https://user-images.githubusercontent.com/108394058/222356524-bc1283c4-fe84-45f6-a3db-05e8c4a190b3.png)
