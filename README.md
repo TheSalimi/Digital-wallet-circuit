@@ -18,4 +18,7 @@
 ###### FULLADDER
 ![Screenshot (239)](https://user-images.githubusercontent.com/108394058/222356019-95c54df0-c44c-4263-972b-4a1e68e17c88.png)
 > used to add bits (x and y are main bits and C_in is carry that has formed from previous plural)
-![Screenshot (239)](https://user-images.githubusercontent.com/108394058/222356524-bc1283c4-fe84-45f6-a3db-05e8c4a190b3.png)
+
+###### MUX
+![Screenshot (241)](https://user-images.githubusercontent.com/108394058/222357437-be22e928-b6bc-42fe-82da-3bf72ba95a38.png)
+> uses S (bit that shows overflow or underflow) to avoid sum or sub becuase of overflow or underflow
