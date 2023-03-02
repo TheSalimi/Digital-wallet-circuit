@@ -7,7 +7,8 @@
 ## U2 A
 > is a d-ff that its output (EN_out) shows that the user is in wallet account or not
 ## B3
-
+![Screenshot (237)](https://user-images.githubusercontent.com/108394058/222353114-b71815d9-7b21-4f7f-a7cc-07b9dd294cc4.png)
+> B3 is balance and can save 7 bits (0-255)
 ## CP 1
 ![Screenshot (232)](https://user-images.githubusercontent.com/108394058/222350771-caa5af03-8895-4b38-a3fb-eadb5f5cac98.png)
 > CP 1 contains four d-ff to save 4 bits of password
